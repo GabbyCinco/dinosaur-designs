@@ -6,7 +6,7 @@ html {
 h1, h2 {
   color: #5d8432;
   font-family: "Patua One", cursive;
-  font-size: 1.75em;
+  font-size: 1.7em;
 }
 
 h2 {
@@ -20,6 +20,7 @@ img {
 figcaption {
   font-size: .8rem;
   font-style: italic;
+  text-align: center;
 }
 
 .first-cap {
@@ -30,8 +31,9 @@ a {
   color: #793284;
   font-family: "Patua One", cursive;
   text-decoration: none;
+  font-size: 1.35em;
+  font-weight: bold;
   list-style-type: none;
-  font-size: 1.5em;
 }
 
 a:hover {
