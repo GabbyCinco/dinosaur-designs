@@ -6,6 +6,11 @@ html {
 h1, h2 {
   color: #5d8432;
   font-family: "Patua One", cursive;
+  font-size: 1.75em;
+}
+
+h2 {
+  text-transform: uppercase;
 }
 
 img {
@@ -26,6 +31,7 @@ a {
   font-family: "Patua One", cursive;
   text-decoration: none;
   list-style-type: none;
+  font-size: 1.5em;
 }
 
 a:hover {
