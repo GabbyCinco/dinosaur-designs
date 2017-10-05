@@ -17,11 +17,11 @@ figcaption {
   font-style: italic;
 }
 
-nav {
+a {
   color: #793284;
   font-family: 'Patua One', cursive;
 }
 
-nav:hover {
+a:hover {
   color: #b42885;
 }
