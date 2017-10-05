@@ -3,15 +3,15 @@ html {
   font-family: Georgia, serif;
 }
 
-h1 {
+h1, h2{
   color: #5d8432;
 
-}
-
-h2{
-  color: #5d8432;
 }
 
 img {
   width: 100%;
+}
+
+figcaption {
+
 }
