@@ -1,17 +1,17 @@
 html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
+  line-height: 1.5;
 }
 
 h1, h2 {
   color: #5d8432;
   font-family: "Patua One", cursive;
-  font-size: 1.7em;
 }
 
 h2 {
   text-transform: uppercase;
-  font-size: 1.9em;
+  font-size: 1.5em;
 }
 
 img {
@@ -32,10 +32,10 @@ a {
   color: #793284;
   font-family: "Patua One", cursive;
   text-decoration: none;
-  font-size: 1.3em;
+  font-size: 1.2em;
   font-weight: bold;
-
 }
+
 li {
   list-style-type: none;
 }
