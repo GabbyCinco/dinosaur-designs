@@ -36,9 +36,9 @@ a {
   font-weight: bold;
 
 }
- li{
-   list-style-type: none;
- }
+li {
+  list-style-type: none;
+}
 
 a:hover {
   color: #b42885;
