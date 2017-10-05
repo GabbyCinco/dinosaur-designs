@@ -16,3 +16,11 @@ figcaption {
   font-size: .90rem;
   font-style: italic;
 }
+
+nav {
+  color: #793284;
+}
+
+nav:hover {
+  color: #b42885;
+}
